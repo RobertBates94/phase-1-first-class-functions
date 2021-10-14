@@ -3,5 +3,13 @@ function receivesAFunction (cb) {
 }
 
 function returnsANamedFunction () {
-    return returnsANamedFunction
+    return function name () {
+
+    }
+}
+
+function returnsAnAnonymousFunction () {
+    return function () {
+        
+    }
 }
