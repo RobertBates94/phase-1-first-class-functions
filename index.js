@@ -3,5 +3,5 @@ function receivesAFunction (cb) {
 }
 
 function returnsANamedFunction () {
-    
+    return returnsANamedFunction
 }
